@@ -54,12 +54,11 @@ Fulladder:
 ![experiment3 fulladder rtl](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/80c6acb0-94cc-4fb6-b9e7-b80695831fc2)
 
 ### Truth table:
-Halfadder:
 ![experiment3 halfadder truthtable](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/eb5a81d3-00af-4155-b4bb-a2a861bcc62f)
+Halfadder:
 
-Fulladder:
 ![experiment3 fulladder truthtable](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/ef0468bd-87c5-40e8-ae4c-b862c95cf2cc)
-
+Fulladder:
 ### Timing Diagram
 Halfadder:
 ![experiment3 halfadder diagram](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/ed797cef-2726-4b9b-9dcb-3c6249a7f4df)
