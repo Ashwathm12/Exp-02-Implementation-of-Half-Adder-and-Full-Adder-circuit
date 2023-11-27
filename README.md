@@ -47,8 +47,7 @@ assign carry=a&b | b&c | a&c;
 endmodule
 ```
 ### RTL realization
-Halfadder:
-![experiment3 halfadder RTL](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/f6d308a8-a007-4c50-9b77-2e0eb6b2d3e8)
+Halfadder:![experiment3 halfadder RTL](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/f6d308a8-a007-4c50-9b77-2e0eb6b2d3e8)
 
 Fulladder:
 ![experiment3 fulladder rtl](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/80c6acb0-94cc-4fb6-b9e7-b80695831fc2)
