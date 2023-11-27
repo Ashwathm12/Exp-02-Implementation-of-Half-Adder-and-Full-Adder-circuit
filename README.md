@@ -37,6 +37,12 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### Half Adder Program:
 ```
+module fulladder(sum,a,b,carry);
+input a,b;
+output sum,carry;
+xor(sum,a,b,);
+and(carry,a,b);
+endmodule
 ```
 ### Full Adder Proogram:
 ```
