@@ -6,6 +6,7 @@ To design a half adder and full adder circuit and verify its truth table in Quar
 
 ### Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
+
 Software – Quartus prime
 ## Theory
 Adders are digital circuits that carry out addition of numbers.
@@ -47,24 +48,24 @@ assign carry=a&b | b&c | a&c;
 endmodule
 ```
 ### RTL realization
-#### Halfadder:
+#### Half Adder:
 ![experiment3 halfadder RTL](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/f6d308a8-a007-4c50-9b77-2e0eb6b2d3e8)
 
-#### Fulladder:
+#### Full Adder:
 ![experiment3 fulladder rtl](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/80c6acb0-94cc-4fb6-b9e7-b80695831fc2)
 
 ### Truth table:
-#### Halfadder:
+#### Half Adder:
 ![experiment3 halfadder truthtable](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/eb5a81d3-00af-4155-b4bb-a2a861bcc62f)
 
-#### Fulladder:
+#### Full Adder:
 ![experiment3 fulladder truthtable](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/ef0468bd-87c5-40e8-ae4c-b862c95cf2cc)
 
 ### Timing Diagram
-#### Halfadder:
+#### Half Adder:
 ![experiment3 halfadder diagram](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/ed797cef-2726-4b9b-9dcb-3c6249a7f4df)
 
-#### Fulladder:
+#### Full Adder:
 ![experiment3 fulladder diagram](https://github.com/Ashwathm12/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138849225/93e0fd62-c414-4b10-b268-18ff12869e34)
 
 
