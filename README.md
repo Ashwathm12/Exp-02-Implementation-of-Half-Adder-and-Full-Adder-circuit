@@ -40,7 +40,7 @@ If the output is 1, then the led glows.
 module fulladder(sum,a,b,carry);
 input a,b;
 output sum,carry;
-xor(sum,a,b,);
+xor(sum,a,b);
 and(carry,a,b);
 endmodule
 ```
